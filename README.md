@@ -43,3 +43,6 @@ Please uncomment these lines to install the required packages
 ### Debug
 Occasionally the correlation heat map is not rendered correctly, please refresh
 if this situation happens.
+
+
+The link for the web app is: https://kyim0004.shinyapps.io/dvp_app/
