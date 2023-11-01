@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Noto+Sans:wght@700&display=swap');
+
+
+
+/* .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+} */
+
+body {
+    background-color: rgb(235, 232, 232);
+    color: rgb(63, 60, 60);
+    align-items: center;
+    /* width: 2000px; */
+    flex-direction: column;
+    display: flex;
+  }
+
+h1 {
+    font-family: 'Concert One', sans-serif;
+    font-size: xxx-large;
+    text-align: center;
+    align-self: center;
+}
+
+h4 {
+    font-family: 'Concert One', sans-serif;
+    font-size: x-large;
+    text-align: center;
+    align-self: center;
+}
+
+
+p {
+  font-family: 'Noto Sans', sans-serif;
+  text-align: left;
+  align-self: center;
+}
+
+.choro-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.box_pie_container {
+  width: 1500px;
+}
+
+.action-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.threed-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
